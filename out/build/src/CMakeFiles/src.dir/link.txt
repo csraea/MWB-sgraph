@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc.a  CMakeFiles/src.dir/ExecutionController.cpp.o CMakeFiles/src.dir/OpenMP.cpp.o CMakeFiles/src.dir/Sequential.cpp.o CMakeFiles/src.dir/main.cpp.o
+/usr/bin/ranlib libsrc.a

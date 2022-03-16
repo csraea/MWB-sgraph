@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -pedantic -fopenmp    CMakeFiles/mwb-sgraph.dir/src/main.cpp.o  -o mwb-sgraph   -L/home/korale/Desktop/PDP/src  -Wl,-rpath,/home/korale/Desktop/PDP/src src/libsrc.a 

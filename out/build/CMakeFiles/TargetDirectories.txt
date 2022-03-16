@@ -1,0 +1,6 @@
+/home/korale/Desktop/PDP/out/build/CMakeFiles/rebuild_cache.dir
+/home/korale/Desktop/PDP/out/build/CMakeFiles/edit_cache.dir
+/home/korale/Desktop/PDP/out/build/CMakeFiles/mwb-sgraph.dir
+/home/korale/Desktop/PDP/out/build/src/CMakeFiles/rebuild_cache.dir
+/home/korale/Desktop/PDP/out/build/src/CMakeFiles/edit_cache.dir
+/home/korale/Desktop/PDP/out/build/src/CMakeFiles/src.dir

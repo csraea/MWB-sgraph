@@ -1,0 +1,45 @@
+./data/graf_10_3.txt
+Size of a graph:	10
+Graph total value:	1500
+Max value of bipartite subgraph: 1300
+Number of recursions:            6515
+Execution time (microseconds):   10204
+./data/graf_10_5.txt
+Size of a graph:	10
+Graph total value:	2483
+Max value of bipartite subgraph: 1885
+Number of recursions:            138998
+Execution time (microseconds):   103750
+./data/graf_10_6.txt
+Size of a graph:	10
+Graph total value:	3000
+Max value of bipartite subgraph: 2000
+Number of recursions:            793869
+Execution time (microseconds):   642926
+./data/graf_10_7.txt
+Size of a graph:	10
+Graph total value:	3506
+Max value of bipartite subgraph: 2348
+Number of recursions:            5634860
+Execution time (microseconds):   4867936
+./data/graf_12_3.txt
+Size of a graph:	12
+Graph total value:	1689
+Max value of bipartite subgraph: 1422
+Number of recursions:            20104
+Execution time (microseconds):   18095
+./data/graf_12_5.txt
+Size of a graph:	12
+Graph total value:	3015
+Max value of bipartite subgraph: 2219
+Number of recursions:            1237848
+Execution time (microseconds):   1356921
+./data/graf_12_6.txt
+Size of a graph:	12
+Graph total value:	3491
+Max value of bipartite subgraph: 2533
+Number of recursions:            3707087
+Execution time (microseconds):   4010361
+./data/graf_12_9.txt
+Size of a graph:	12
+Graph total value:	5504

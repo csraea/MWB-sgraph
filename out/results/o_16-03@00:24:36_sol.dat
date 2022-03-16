@@ -1,0 +1,69 @@
+./data/graf_10_3.txt
+Size of a graph:	10
+Graph total value:	1500
+Max value of bipartite subgraph: 1300
+Number of recursions:            412
+Execution time (microseconds):   1028
+./data/graf_10_5.txt
+Size of a graph:	10
+Graph total value:	2483
+Max value of bipartite subgraph: 1885
+Number of recursions:            28912
+Execution time (microseconds):   45373
+./data/graf_10_6.txt
+Size of a graph:	10
+Graph total value:	3000
+Max value of bipartite subgraph: 2000
+Number of recursions:            428409
+Execution time (microseconds):   692443
+./data/graf_10_7.txt
+Size of a graph:	10
+Graph total value:	3506
+Max value of bipartite subgraph: 2348
+Number of recursions:            1827562
+Execution time (microseconds):   2563400
+./data/graf_12_3.txt
+Size of a graph:	12
+Graph total value:	1689
+Max value of bipartite subgraph: 1422
+Number of recursions:            4268
+Execution time (microseconds):   6694
+./data/graf_12_5.txt
+Size of a graph:	12
+Graph total value:	3015
+Max value of bipartite subgraph: 2219
+Number of recursions:            437169
+Execution time (microseconds):   716837
+./data/graf_12_6.txt
+Size of a graph:	12
+Graph total value:	3491
+Max value of bipartite subgraph: 2533
+Number of recursions:            1256034
+Execution time (microseconds):   1939778
+./data/graf_12_9.txt
+Size of a graph:	12
+Graph total value:	5504
+Max value of bipartite subgraph: 3437
+Number of recursions:            2214246943
+Execution time (microseconds):   4140450199
+./data/graf_15_4.txt
+Size of a graph:	15
+Graph total value:	3038
+Max value of bipartite subgraph: 2547
+Number of recursions:            50817
+Execution time (microseconds):   155731
+./data/graf_15_5.txt
+Size of a graph:	15
+Graph total value:	3700
+Max value of bipartite subgraph: 2892
+Number of recursions:            4364212
+Execution time (microseconds):   9529282
+./data/graf_15_6.txt
+Size of a graph:	15
+Graph total value:	4519
+Max value of bipartite subgraph: 3353
+Number of recursions:            27540440
+Execution time (microseconds):   70215651
+./data/graf_15_8.txt
+Size of a graph:	15
+Graph total value:	5992
