@@ -24,7 +24,7 @@ class Graph
     size_t size = 0;                // size of the graph (number of vertices)
 
     EdgeCollection edges;           // set of edges              
-    VerticeCollection vertices;  // vertice colors
+    VerticeCollection vertices;     // vertice colors
 
     Graph(){ };
     ~Graph(){ };
@@ -54,17 +54,20 @@ class Graph
     }
 
     // print obtained graph info
-    static void DisplayGraphInfo(const Graph *graph)
+    static void DisplayGraphInfo(const Graph *graph, bool inDetails=true)
     {
         std::cout << "Size of a graph:\t" << graph->size << std::endl;
         std::cout << "Graph total value:\t" << graph->value << std::endl;
 
-        std::cout << "Edges:" << std::endl;
-        for (const auto i : graph->edges) {
-            std::cout << i.first << ", (" << i.second.first
-                                 << ", " << i.second.second
-                                 << ")" << std::endl;
+        if(inDetails) {
+            std::cout << "Edges:" << std::endl;
+            for (const auto i : graph->edges) {
+                std::cout << i.first << ", (" << i.second.first
+                                     << ", " << i.second.second
+                                     << ")" << std::endl;
+            }
         }
+        
     }
 };
 

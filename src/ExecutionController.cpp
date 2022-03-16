@@ -4,6 +4,7 @@ auto ExecutionController::GetMethod(const char *arg){
 
     switch (arg[0]) {
         case (int)'s':     return &Sequential::Solve;
+        case (int)'o':     return &OpenMP::Solve;
         default:           break;
     }
 
@@ -36,7 +37,7 @@ void ExecutionController::Solve(int argc, char **argv) {
     
     auto func = GetMethod(argv[1]);
 
-    Graph::DisplayGraphInfo(&(this->graph));
+    Graph::DisplayGraphInfo(&(this->graph), false);
 
     // measure the execution time
     const auto start = std::chrono::high_resolution_clock::now();

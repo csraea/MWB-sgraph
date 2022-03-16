@@ -4,7 +4,7 @@
 
 ### Brief overview
 
-**MWB-sgraph** is a universal toolset for finding the maximal weighted bipartite subgraphs of the provided weighted graph using different approaches. The course is coherent with NI-PDP course at the Faculty of Information Technologies, Czech Technical University, 2022.
+**MWB-sgraph** is a universal toolset for finding the maximal weighted bipartite subgraphs of the provided weighted graph using different approaches. The project is coherent with NI-PDP course at the Faculty of Information Technologies, Czech Technical University, 2022.
 
 **MWB-sgraph** is a command line tool that compounds *bash scripts* and *C++ executable*. The tool currently supports the following approaches to solve the problem:
 * **Sequential** - finds the soluition using the sequential _recursive_ algorithm by searching through _entire_ state space;  `--seq`

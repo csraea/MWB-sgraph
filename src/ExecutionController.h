@@ -8,6 +8,8 @@
 #define EXECUTIONCONTROLLER_H
 
 #include "Sequential.h"
+#include "OpenMP.h"
+
 #include <chrono>
 #include <iostream>
 #include <stdlib.h>
