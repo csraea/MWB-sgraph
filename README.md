@@ -31,7 +31,7 @@ The toolset requires additional parameters to be run: method of solving and inpu
 
 In order to run the project, `run.sh --seq -d filename` or `v-run.sh --seq -d filename` (valgrind-run, to trace memory behavoiur) script must be executed from the root directory of a project.
 
-**Example:** `bash ./run.sh --seq -d graph03.txt`
+**Example:** `bash ./run.sh --seq -d graph03.txt`, **NOTE:** see `./run.sh` for inspiration :D
 
 
 
